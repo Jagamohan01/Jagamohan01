@@ -1,7 +1,5 @@
 ## Hi there 👋 I'm Jagamohan Mishra
 🎓 MCA Student | 🌱 Aspiring Data Scientist<br><br>
-<!--
-**Jagamohan01/Jagamohan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ---
 
