@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Jagamohan Mishra
-🎓 MCA Student | 🌱 Aspiring Data Scientist<br><br>
+🎓 MCA Student | 🌱 Aspiring Data Scientist<br>
 
 ---
 
