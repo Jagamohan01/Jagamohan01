@@ -11,8 +11,6 @@
 - Beginner in Django, understanding backend fundamentals  
 - Focused on learning step by step and improving every day  
 
----
-
 ### 🛠️ Currently Learning
 
 - Python (basics)  
@@ -20,15 +18,11 @@
 - NumPy & Pandas (beginner)  
 - Django (beginner)  
 
----
-
 ### 🎯 Goals
 
 - Build a strong foundation in Data Science  
 - Work on small learning-based projects  
 - Prepare for internships and entry-level roles  
-
----
 
 ### 📫 Contact
 
