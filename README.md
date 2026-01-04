@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Jagamohan Mishra
 🎓 MCA Student | 🌱 Aspiring Data Scientist<br>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=2F81F7&vCenter=true&width=480&lines=Learning+Python+with+real+examples;Exploring+data+and+patterns;Understanding+how+backend+systems+work;Building+my+foundation+step+by+step" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&color=2F81F7&vCenter=true&width=480&lines=Learning+Python;Exploring+data+and+patterns;Curious+about+data,+logic,+and+problem+solving;Improving+coding+skill+step+by+step;Building+my+foundation+step+by+step" />
 </p>
 
 ---
