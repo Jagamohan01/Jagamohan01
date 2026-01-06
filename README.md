@@ -21,7 +21,7 @@
 
 
 
-### 🎯 Goals
+### 🎯 Goals :
 
 - Build a strong foundation in Data Science  
 - Work on small learning-based projects  
