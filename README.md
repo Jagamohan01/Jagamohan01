@@ -6,7 +6,7 @@
 
 ---
 
-### 📌 About Me :-
+### 📌 About Me :
 
 - MCA student graduating soon  
 - Beginner, currently exploring Data Science  
