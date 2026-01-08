@@ -27,6 +27,6 @@
 - Work on small learning-based projects  
 - Prepare for internships and entry-level roles  
 
-### 📫 Contact :
+### 📫 Contact :-
 
 - LinkedIn: https://www.linkedin.com/in/jagamohan-mishra-8894a2349/
