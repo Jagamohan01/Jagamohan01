@@ -10,7 +10,7 @@
 
 - MCA student graduating soon  
 - Beginner, currently exploring Data Science  
-- Learning Python and basic data analysis concepts  
+- Learning Python and basic data analysis concepts 
 - Beginner in Django, understanding backend fundamentals  
 - Focused on learning step by step and improving every day  
 
